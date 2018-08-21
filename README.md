@@ -1,4 +1,5 @@
 # Lista de jogos
 
-* [jogos preferidos 1]
-* [jogos preferidos 2]
+* Call of Duty
+* God of War
+* The Last of Us
